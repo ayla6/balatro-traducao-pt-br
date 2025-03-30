@@ -2803,7 +2803,7 @@ return {
                 },
             },
             c_emperor = {
-                name = "O Emperador",
+                name = "O Imperador",
                 text = {
                     "Cria até {C:attention}#1#",
                     "cartas de {C:tarot}Tarot{} aleatórias",
