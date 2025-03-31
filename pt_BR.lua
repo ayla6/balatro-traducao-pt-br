@@ -3301,7 +3301,7 @@ return {
             clairvoyance = "Descubra todas as cartas Espectrais",
             completionist = "Descubra 100% da tua coleção",
             completionist_plus = "Vença com todos os baralhos na Aposta Dourada",
-            completionist_plus_plus = "Consiga um Selo de Ouro em todos os Coringas",
+            completionist_plus_plus = "Consiga um Adesivo de Ouro em todos os Coringas",
             extreme_couponer = "Descubra todos os Vouchers",
             flushed = "Jogue um Flush com 5 Cartas Versáteis",
             heads_up = "Vença uma partida",
