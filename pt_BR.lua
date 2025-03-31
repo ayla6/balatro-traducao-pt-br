@@ -683,7 +683,7 @@ return {
                     "Quando uma {C:attention}Blind{} é selecionada,",
                     "destrói o Coringa à sua direita e",
                     "permanentemente adiciona o {C:attention}dobro",
-                    "do seu valor de venda à {C:red}Mult",
+                    "do valor de venda dele à sua {C:red}Mult",
                     "{C:inactive}(No momento {C:mult}+#1#{C:inactive} Mult)",
                 },
             },
